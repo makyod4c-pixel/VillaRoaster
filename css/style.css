@@ -41,12 +41,12 @@ body{
     border-radius: 15px;
 }
 
-.mdm-carousel-control-prev{ /* mueve los botone*/
+.mdm-carousel-control-prev{
     justify-content: flex-start;
     padding-left: 15px;
 }
 
-.mdm-carousel-control-next{ /* Mueve el botón de la flecha derecha hacia el borde derecho */
+.mdm-carousel-control-next{ /* Mueve el boton de la flecha derecha hacia el borde derecho */
     justify-content: flex-end;
     padding-right: 15px;
 }
@@ -95,4 +95,13 @@ body{
         width: 100%;
      height: 300px;
      object-fit: cover;
+}
+.modal-content h5{
+color: white;
+}
+.modal-content p{
+    color: white;
+}
+.modal-content{
+    background-color: black;
 }
