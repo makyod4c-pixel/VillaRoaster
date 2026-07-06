@@ -118,3 +118,19 @@ color: white;
     box-shadow: none;
     outline: none;
 }
+.mdm-cards-premises{
+    max-width: 100%;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    color: red;
+}
+.mdm-video{
+    width: 600px;
+    align-items: center;
+    text-align: center;
+}
+.mdm-card-text{
+    color:#E4002B;
+    text-align: center;
+}
