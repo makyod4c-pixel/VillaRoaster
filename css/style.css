@@ -64,9 +64,10 @@ body{
     padding: 40px;
 }
 
-.mdm-footer h4{
+.mdm-footer h1{
     margin-bottom: 15px;
     color: #E4002B;
+    
 }
 
 .mdm-footer a{
